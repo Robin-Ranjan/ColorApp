@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185531537773",
+    "project_id": "janitri-task",
+    "storage_bucket": "janitri-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185531537773:android:6d1bc6d871d423ad03a264",
+        "android_client_info": {
+          "package_name": "com.task.janitritask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKgaW7hC3o4GKm0MdPz4A095tkyY6SY6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
